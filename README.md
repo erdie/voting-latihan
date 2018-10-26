@@ -1,3 +1,3 @@
 ## Table of Contents
 
-Learn new JS framework, ReactJS
+Practice new JS framework, ReactJS
